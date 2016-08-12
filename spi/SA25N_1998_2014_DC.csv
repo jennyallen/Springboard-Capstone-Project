@@ -1,0 +1,123 @@
+"GeoFIPS","GeoName","Region","Table","LineCode","IndustryClassification","Description","1998","1999","2000","2001","2002","2003","2004","2005","2006","2007","2008","2009","2010","2011","2012","2013","2014"
+"11000","District of Columbia","2","SA25N 1/","10","...","Total employment (number of jobs)",697888,711756,734613,740575,756799,753099,763498,769839,779372,790525,797335,799704,809387,827116,834614,848478,858685
+"11000","District of Columbia","2","SA25N 1/","20","...","  Wage and salary employment",652232,664926,684236,688978,704084,698723,705133,708394,715513,720920,724819,723857,732179,744088,749686,759033,768122
+"11000","District of Columbia","2","SA25N 1/","40","...","  Proprietors employment",45656,46830,50377,51597,52715,54376,58365,61445,63859,69605,72516,75847,77208,83028,84928,89445,90563
+"11000","District of Columbia","2","SA25N 1/","50","...","    Farm proprietors employment",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"11000","District of Columbia","2","SA25N 1/","60","...","    Nonfarm proprietors employment 2/",45656,46830,50377,51597,52715,54376,58365,61445,63859,69605,72516,75847,77208,83028,84928,89445,90563
+"11000","District of Columbia","2","SA25N 1/","70","111-112","  Farm employment",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"11000","District of Columbia","2","SA25N 1/","80","...","  Nonfarm employment",697888,711756,734613,740575,756799,753099,763498,769839,779372,790525,797335,799704,809387,827116,834614,848478,858685
+"11000","District of Columbia","2","SA25N 1/","90","113-814","    Private nonfarm employment",448996,466463,493870,495417,502686,502895,514754,522729,532200,546709,552049,547898,547028,565832,578201,595535,607079
+"11000","District of Columbia","2","SA25N 1/","100","113-115","      Forestry, fishing, and related activities","(T)","(T)","(T)","(D)","(D)",59,68,70,66,68,76,91,69,76,84,77,79
+"11000","District of Columbia","2","SA25N 1/","101","113","        Forestry and logging","(T)","(T)","(T)","(D)","(D)",12,15,17,18,20,17,17,"(L)",11,17,14,15
+"11000","District of Columbia","2","SA25N 1/","102","114","        Fishing, hunting and trapping","(T)","(T)","(T)","(L)",10,"(L)","(L)","(L)",10,"(L)","(L)",11,"(L)","(L)",11,14,15
+"11000","District of Columbia","2","SA25N 1/","103","115","        Support activities for agriculture and forestry","(T)","(T)","(T)",45,47,39,44,44,38,44,51,63,56,58,56,49,49
+"11000","District of Columbia","2","SA25N 1/","200","21","      Mining, quarrying, and oil and gas extraction","(T)",295,279,"(D)","(D)",270,233,"(D)",220,238,348,329,450,344,490,517,554
+"11000","District of Columbia","2","SA25N 1/","201","211","        Oil and gas extraction","(T)","(T)",241,256,219,"(D)","(D)","(D)",206,207,317,300,412,309,404,466,497
+"11000","District of Columbia","2","SA25N 1/","202","212","        Mining (except oil and gas)","(T)","(T)","(T)",23,"(D)",11,15,12,"(L)",19,19,20,28,26,65,40,46
+"11000","District of Columbia","2","SA25N 1/","203","213","        Support activities for mining","(T)","(T)","(T)","(D)","(D)","(D)","(D)","(D)","(L)",12,12,"(L)",10,"(L)",21,11,11
+"11000","District of Columbia","2","SA25N 1/","300","22","      Utilities",1855,2276,2761,"(D)","(D)",2616,2544,2626,2487,2438,2405,2508,1886,1877,1898,1953,1989
+"11000","District of Columbia","2","SA25N 1/","400","23","      Construction",10764,11420,13158,13613,14578,15420,14898,"(D)",15309,15496,15728,14439,13298,14833,16440,17176,17462
+"11000","District of Columbia","2","SA25N 1/","401","236","        Construction of buildings",3392,3878,4504,4436,5139,5346,5183,5352,5367,4865,4659,4246,4239,4426,4703,4835,4684
+"11000","District of Columbia","2","SA25N 1/","402","237","        Heavy and civil engineering construction",2166,2207,2457,2342,2504,2306,2031,"(D)",1911,2015,2314,2290,2374,2622,2747,2719,2956
+"11000","District of Columbia","2","SA25N 1/","403","238","        Specialty trade contractors",5206,5335,6197,6835,6935,7768,7684,8051,8031,8616,8755,7903,6685,7785,8990,9622,9822
+"11000","District of Columbia","2","SA25N 1/","500","31-33","      Manufacturing",3998,4062,4019,3801,"(D)",2951,2859,2528,2176,2191,2065,1932,1764,1625,1580,1711,1799
+"11000","District of Columbia","2","SA25N 1/","510","321,327-339","        Durable goods manufacturing",1322,1361,1341,1486,"(D)",1092,1023,862,781,765,769,756,693,679,674,719,711
+"11000","District of Columbia","2","SA25N 1/","511","321","          Wood product manufacturing","(T)","(T)","(T)","(D)","(D)","(D)","(D)","(D)","(D)","(D)","(D)","(D)","(D)","(D)","(D)","(D)","(D)"
+"11000","District of Columbia","2","SA25N 1/","512","327","          Nonmetallic mineral product manufacturing",148,137,139,120,118,124,128,134,"(D)",122,128,120,87,102,119,122,134
+"11000","District of Columbia","2","SA25N 1/","513","331","          Primary metal manufacturing","(T)","(T)","(T)",24,13,13,"(D)","(D)","(D)","(D)","(D)","(D)","(D)","(D)","(D)","(D)","(D)"
+"11000","District of Columbia","2","SA25N 1/","514","332","          Fabricated metal product manufacturing","(T)","(T)","(T)",44,89,84,93,75,80,"(D)","(D)","(D)",85,75,80,73,60
+"11000","District of Columbia","2","SA25N 1/","515","333","          Machinery manufacturing","(T)","(T)","(T)",80,62,49,43,37,30,27,19,21,14,14,"(D)","(D)","(D)"
+"11000","District of Columbia","2","SA25N 1/","516","334","          Computer and electronic product manufacturing",265,285,274,"(D)",461,373,289,247,169,172,180,182,188,138,117,108,97
+"11000","District of Columbia","2","SA25N 1/","517","335","          Electrical equipment, appliance, and component manufacturing","(T)","(T)","(T)","(D)","(D)","(D)","(D)","(D)","(D)","(D)","(D)","(D)","(D)","(D)","(D)","(D)","(D)"
+"11000","District of Columbia","2","SA25N 1/","518","3361-3363","          Motor vehicles, bodies and trailers, and parts manufacturing",97,107,110,"(D)","(D)","(D)","(D)","(D)","(L)","(L)","(L)","(L)","(L)","(L)","(L)","(L)","(L)"
+"11000","District of Columbia","2","SA25N 1/","519","3364-3369","          Other transportation equipment manufacturing","(T)","(T)","(T)","(D)","(D)","(D)","(D)","(D)","(D)","(D)","(D)",19,15,14,"(L)",10,11
+"11000","District of Columbia","2","SA25N 1/","521","337","          Furniture and related product manufacturing","(T)","(T)","(T)",162,148,155,154,149,147,147,"(D)","(D)","(D)","(D)","(D)","(D)","(D)"
+"11000","District of Columbia","2","SA25N 1/","522","339","          Miscellaneous manufacturing",284,260,266,215,197,187,194,118,134,123,"(D)","(D)","(D)","(D)",121,"(D)","(D)"
+"11000","District of Columbia","2","SA25N 1/","530","311-316,322-326","        Nondurable goods manufacturing",2676,2701,2678,2315,"(D)",1859,1836,1666,1395,1426,1296,1176,1071,946,906,992,1088
+"11000","District of Columbia","2","SA25N 1/","531","311","          Food manufacturing",424,446,475,475,482,448,458,441,294,344,298,249,233,160,205,222,293
+"11000","District of Columbia","2","SA25N 1/","532","312","          Beverage and tobacco product manufacturing","(T)",116,113,"(D)","(D)","(D)","(D)","(D)","(D)","(D)","(D)","(D)","(D)","(D)","(D)","(D)","(D)"
+"11000","District of Columbia","2","SA25N 1/","533","313","          Textile mills","(T)","(T)","(T)",12,"(D)","(D)","(D)","(D)","(D)",12,14,16,13,"(D)","(D)",10,11
+"11000","District of Columbia","2","SA25N 1/","534","314","          Textile product mills","(T)","(T)","(T)","(D)","(D)","(D)","(D)","(D)",29,27,26,"(D)",16,17,16,20,19
+"11000","District of Columbia","2","SA25N 1/","535","315","          Apparel manufacturing","(T)","(T)","(T)",51,45,58,61,68,56,71,57,70,76,69,82,101,123
+"11000","District of Columbia","2","SA25N 1/","536","316","          Leather and allied product manufacturing","(T)","(T)","(T)","(L)","(L)","(L)","(L)","(L)","(L)","(L)","(L)","(L)","(L)","(L)",10,"(L)","(D)"
+"11000","District of Columbia","2","SA25N 1/","537","322","          Paper manufacturing","(T)","(T)","(T)",18,16,12,"(D)","(D)","(D)","(D)","(D)","(D)","(D)","(D)","(D)","(D)","(D)"
+"11000","District of Columbia","2","SA25N 1/","538","323","          Printing and related support activities",1660,1659,1594,1393,1190,1025,951,819,722,681,664,590,497,"(D)",343,336,345
+"11000","District of Columbia","2","SA25N 1/","539","324","          Petroleum and coal products manufacturing","(T)","(T)","(T)",90,73,62,95,72,77,69,"(D)","(D)","(D)","(D)","(L)","(L)","(L)"
+"11000","District of Columbia","2","SA25N 1/","541","325","          Chemical manufacturing",249,251,231,"(D)","(D)","(D)","(D)",178,168,173,174,164,173,200,188,201,178
+"11000","District of Columbia","2","SA25N 1/","542","326","          Plastics and rubber products manufacturing","(T)","(T)","(T)","(D)","(D)","(D)","(D)","(D)","(D)","(D)","(D)","(D)","(D)","(D)","(D)","(D)","(D)"
+"11000","District of Columbia","2","SA25N 1/","600","42","      Wholesale trade",4444,4884,4978,4800,4680,4936,5065,5138,5271,5480,5301,5148,5281,5202,5541,5377,5444
+"11000","District of Columbia","2","SA25N 1/","700","44-45","      Retail trade",20128,20391,20508,19964,19938,20332,20695,20757,21246,21510,21683,21178,21664,22114,22374,23571,24891
+"11000","District of Columbia","2","SA25N 1/","701","441","        Motor vehicle and parts dealers",709,552,588,488,627,524,488,472,458,426,347,341,276,275,287,298,292
+"11000","District of Columbia","2","SA25N 1/","702","442","        Furniture and home furnishings stores",824,937,914,760,773,764,768,897,970,931,1000,796,770,844,847,835,903
+"11000","District of Columbia","2","SA25N 1/","703","443","        Electronics and appliance stores",617,671,530,549,592,524,592,557,568,543,578,547,589,621,551,576,538
+"11000","District of Columbia","2","SA25N 1/","704","444","        Building material and garden equipment and supplies dealers",607,578,579,501,744,794,808,850,884,857,764,683,724,795,876,960,954
+"11000","District of Columbia","2","SA25N 1/","705","445","        Food and beverage stores",5348,5460,5276,5496,5436,5773,5767,5342,5628,5768,6020,6221,6345,6526,6603,6855,7284
+"11000","District of Columbia","2","SA25N 1/","706","446","        Health and personal care stores",1989,2079,2227,2123,2154,2200,2409,2541,2637,2662,2642,2641,2612,2565,2652,2851,2924
+"11000","District of Columbia","2","SA25N 1/","707","447","        Gasoline stations",600,572,583,587,571,574,569,555,503,482,475,446,495,456,477,441,437
+"11000","District of Columbia","2","SA25N 1/","708","448","        Clothing and clothing accessories stores",3543,3652,3819,3503,3634,3514,3420,3565,3599,3762,3714,3438,3538,3519,3486,3503,3480
+"11000","District of Columbia","2","SA25N 1/","709","451","        Sporting goods, hobby, musical instrument, and book stores",1668,1718,1782,1737,1609,1598,1633,1596,1633,1606,1551,1414,1304,1194,1108,1096,1130
+"11000","District of Columbia","2","SA25N 1/","711","452","        General merchandise stores",841,806,760,808,567,814,964,1030,1076,1130,1327,1293,1367,1485,1498,2209,3069
+"11000","District of Columbia","2","SA25N 1/","712","453","        Miscellaneous store retailers",2152,2166,2213,2324,2125,2139,2166,2080,2005,2048,1984,1961,1965,1950,2092,2208,2117
+"11000","District of Columbia","2","SA25N 1/","713","454","        Nonstore retailers","(T)","(T)","(T)",1088,1106,1114,1111,1272,1285,1295,1281,1397,1679,1884,1897,1739,1763
+"11000","District of Columbia","2","SA25N 1/","800","48-49","      Transportation and warehousing",8564,8389,8266,"(D)","(D)",7393,7202,7158,6729,6583,6277,6252,6326,6689,6965,7224,7544
+"11000","District of Columbia","2","SA25N 1/","801","481","        Air transportation",739,822,451,288,227,186,173,165,144,135,127,119,102,84,92,94,104
+"11000","District of Columbia","2","SA25N 1/","802","482","        Rail transportation",2019,2025,2064,"(D)","(D)","(D)",2249,2232,1954,1969,1987,1945,1952,2010,1997,1945,1970
+"11000","District of Columbia","2","SA25N 1/","803","483","        Water transportation","(T)","(T)","(T)",173,157,164,164,171,158,"(D)","(D)","(D)","(D)","(D)","(D)","(D)","(D)"
+"11000","District of Columbia","2","SA25N 1/","804","484","        Truck transportation",400,366,364,338,364,376,347,366,390,370,331,329,353,343,309,311,264
+"11000","District of Columbia","2","SA25N 1/","805","485","        Transit and ground passenger transportation",2756,2599,2622,2385,2308,2297,2285,2242,2309,2397,2113,2141,2143,2449,2778,3099,3306
+"11000","District of Columbia","2","SA25N 1/","806","486","        Pipeline transportation","(T)","(T)","(T)",45,36,22,"(D)","(D)","(D)","(D)","(D)","(D)","(D)","(D)","(D)","(D)","(D)"
+"11000","District of Columbia","2","SA25N 1/","807","487","        Scenic and sightseeing transportation","(T)","(T)","(T)",40,135,"(D)","(D)",156,"(D)",187,346,355,402,316,311,279,464
+"11000","District of Columbia","2","SA25N 1/","808","488","        Support activities for transportation",318,340,355,357,265,228,180,134,129,140,135,125,119,143,145,158,169
+"11000","District of Columbia","2","SA25N 1/","809","492","        Couriers and messengers",1609,1438,1514,"(D)","(D)","(D)","(D)","(D)","(D)","(D)","(D)","(D)","(D)","(D)","(D)","(D)","(D)"
+"11000","District of Columbia","2","SA25N 1/","811","493","        Warehousing and storage",377,465,570,687,"(D)","(D)","(D)","(D)","(D)","(D)","(D)","(D)","(D)","(D)",139,"(D)","(D)"
+"11000","District of Columbia","2","SA25N 1/","900","51","      Information",25500,26533,28731,"(D)",27563,26907,26217,25211,24990,24676,23293,21701,21148,21161,19878,19539,19725
+"11000","District of Columbia","2","SA25N 1/","901","511","        Publishing industries (except Internet)",10603,10391,10757,10837,10411,10374,10057,9724,9533,9367,8364,7589,6946,6885,7089,6377,6160
+"11000","District of Columbia","2","SA25N 1/","902","512","        Motion picture and sound recording industries",1702,1660,1843,1789,"(D)",2037,1875,1642,1509,1416,1455,1368,1365,1317,1351,1290,1275
+"11000","District of Columbia","2","SA25N 1/","903","515","        Broadcasting (except Internet)",4467,5102,5671,5223,5113,4752,4797,5141,5299,5460,5318,5043,4728,4887,4884,5042,5428
+"11000","District of Columbia","2","SA25N 1/","904","516","        Internet publishing and broadcasting 3/","(T)","(T)",162,"(D)","(D)",107,163,210,282,"(NA)","(NA)","(NA)","(NA)","(NA)","(NA)","(NA)","(NA)"
+"11000","District of Columbia","2","SA25N 1/","905","517","        Telecommunications",4490,4616,4583,4813,4741,4403,3645,3325,3015,4531,4109,4147,4216,3971,2635,2857,2694
+"11000","District of Columbia","2","SA25N 1/","906","518","        Data processing, hosting, and related services",1969,2320,3194,3026,3207,3062,3401,2904,3054,922,937,916,856,947,680,652,693
+"11000","District of Columbia","2","SA25N 1/","907","519","        Other information services 3/",2216,2380,2521,2482,2209,2172,2279,2265,2298,2980,3110,2638,3037,3154,3239,3321,3475
+"11000","District of Columbia","2","SA25N 1/","1000","52","      Finance and insurance",21114,21795,22601,21417,21228,20959,20848,20904,20932,22064,22521,23088,22840,24323,24427,24675,24895
+"11000","District of Columbia","2","SA25N 1/","1001","521","        Monetary Authorities-central bank",0,0,0,"(D)","(D)","(D)","(D)","(D)","(D)","(D)","(D)","(D)","(D)","(D)",0,"(D)",0
+"11000","District of Columbia","2","SA25N 1/","1002","522","        Credit intermediation and related activities",7642,8100,8065,8559,8657,8908,8878,8898,8998,9114,8492,7927,7755,7714,7728,7737,7989
+"11000","District of Columbia","2","SA25N 1/","1003","523","        Securities, commodity contracts, and other financial investments and related activities",7873,8174,8691,6816,6620,6276,6419,6961,7065,7947,9198,10040,9767,10776,10743,10880,10700
+"11000","District of Columbia","2","SA25N 1/","1004","524","        Insurance carriers and related activities",4581,4649,4919,5150,5186,5077,4766,4189,4101,4219,4021,4030,4352,4633,4595,4404,4569
+"11000","District of Columbia","2","SA25N 1/","1005","525","        Funds, trusts, and other financial vehicles",1018,872,926,"(D)","(D)","(D)","(D)","(D)","(D)","(D)","(D)","(D)","(D)","(D)",1361,"(D)",1637
+"11000","District of Columbia","2","SA25N 1/","1100","53","      Real estate and rental and leasing",16172,16019,18279,17197,17278,17997,19200,20360,21151,22352,22050,22350,22519,24166,24491,25558,26661
+"11000","District of Columbia","2","SA25N 1/","1101","531","        Real estate",14984,14852,16851,15894,16125,16766,17827,"(D)",19671,20910,20701,21088,21342,23264,23522,24584,25644
+"11000","District of Columbia","2","SA25N 1/","1102","532","        Rental and leasing services",1161,1141,1398,"(D)","(D)","(D)","(D)","(D)","(D)","(D)","(D)","(D)","(D)","(D)","(D)","(D)","(D)"
+"11000","District of Columbia","2","SA25N 1/","1103","533","        Lessors of nonfinancial intangible assets (except copyrighted works)","(T)","(T)","(T)","(D)","(D)","(D)","(D)","(L)","(D)","(D)","(D)","(D)","(D)","(D)","(D)","(D)","(D)"
+"11000","District of Columbia","2","SA25N 1/","1200","54","      Professional, scientific, and technical services",91000,99331,103871,105365,107038,107885,111937,115489,118491,121377,123819,121849,120889,122677,126776,129114,130180
+"11000","District of Columbia","2","SA25N 1/","1300","55","      Management of companies and enterprises",2603,2681,2640,2535,2494,1777,1638,1662,1611,1572,1805,1682,2399,2433,2432,2371,2494
+"11000","District of Columbia","2","SA25N 1/","1400","56","      Administrative and support and waste management and remediation services",40936,42766,46802,46113,46179,47115,46993,47977,48734,49747,49301,47260,47432,50683,51028,51709,52392
+"11000","District of Columbia","2","SA25N 1/","1401","561","        Administrative and support services",40509,42332,46391,45726,45689,46589,46596,47510,48338,49389,48896,46898,47033,50141,50593,51326,51918
+"11000","District of Columbia","2","SA25N 1/","1402","562","        Waste management and remediation services",427,434,411,387,490,526,397,467,396,358,405,362,399,542,435,383,474
+"11000","District of Columbia","2","SA25N 1/","1500","61","      Educational services",41420,40921,41000,42098,43602,43911,47678,48010,51075,52201,51139,53014,52442,53705,53465,59245,60454
+"11000","District of Columbia","2","SA25N 1/","1600","62","      Health care and social assistance",49468,50890,52843,55056,58870,56969,56914,56826,57215,60494,61286,62716,64880,67330,68631,70549,71295
+"11000","District of Columbia","2","SA25N 1/","1601","621","        Ambulatory health care services",10854,10792,11726,13063,13954,13125,12943,13224,13614,14914,15941,16777,17128,18737,18954,18944,20077
+"11000","District of Columbia","2","SA25N 1/","1602","622","        Hospitals",21965,22158,22000,23119,24646,23349,22996,23352,23251,24161,24823,24821,25423,26189,26553,28066,27452
+"11000","District of Columbia","2","SA25N 1/","1603","623","        Nursing and residential care facilities",7635,7735,8251,7423,7527,7851,7859,7679,7348,7267,7222,7788,8504,8162,8861,8617,8768
+"11000","District of Columbia","2","SA25N 1/","1604","624","        Social assistance",9014,10205,10866,11451,12743,12644,13116,12571,13002,14152,13300,13330,13825,14242,14263,14922,14998
+"11000","District of Columbia","2","SA25N 1/","1700","71","      Arts, entertainment, and recreation",8124,9268,10074,10334,10646,10876,10899,11615,11655,12271,13488,13549,13567,13512,13801,13619,14005
+"11000","District of Columbia","2","SA25N 1/","1701","711","        Performing arts, spectator sports, and related industries",5635,6290,6648,7257,7469,7500,7563,8165,8434,8982,9385,9569,9748,9589,9716,9703,10030
+"11000","District of Columbia","2","SA25N 1/","1702","712","        Museums, historical sites, and similar institutions",669,703,720,770,806,897,887,892,834,833,1235,1158,1061,1120,1149,1010,957
+"11000","District of Columbia","2","SA25N 1/","1703","713","        Amusement, gambling, and recreation industries",1820,2275,2706,2307,2371,2479,2449,2558,2387,2456,2868,2822,2758,2803,2936,2906,3018
+"11000","District of Columbia","2","SA25N 1/","1800","72","      Accommodation and food services",40118,41194,47325,"(D)",44486,46173,47821,50246,51199,51743,53389,53844,55438,58185,60860,63868,65616
+"11000","District of Columbia","2","SA25N 1/","1801","721","        Accommodation",14365,14424,16583,"(D)",14567,14818,15366,15763,16126,15730,15661,15418,15879,15800,15753,15710,15688
+"11000","District of Columbia","2","SA25N 1/","1802","722","        Food services and drinking places",25753,26770,30742,30297,29919,31355,32455,34483,35073,36013,37728,38426,39559,42385,45107,48158,49928
+"11000","District of Columbia","2","SA25N 1/","1900","81","      Other services (except public administration)",62388,63274,65667,67674,70294,68349,71045,70625,71643,74208,76075,74968,72736,74897,77040,77682,79600
+"11000","District of Columbia","2","SA25N 1/","1901","811","        Repair and maintenance",2310,2455,1745,"(D)","(D)",1310,1367,1445,1358,1282,1159,1111,1135,1234,1216,1182,1139
+"11000","District of Columbia","2","SA25N 1/","1902","812","        Personal and laundry services",6525,6998,7840,8361,8413,8591,9051,9224,9340,9630,9775,10036,10354,11331,12464,12771,13167
+"11000","District of Columbia","2","SA25N 1/","1903","813","        Religious, grantmaking, civic, professional, and similar organizations",45704,46597,49675,51887,54432,52611,55046,54781,56162,58755,61112,60384,58155,59000,59918,60290,61486
+"11000","District of Columbia","2","SA25N 1/","1904","814","        Private households",7849,7224,6407,"(D)","(D)",5837,5581,5175,4783,4541,4029,3437,3092,3332,3442,3439,3808
+"11000","District of Columbia","2","SA25N 1/","2000","...","    Government and government enterprises",248892,245293,240743,245158,254113,250204,248744,247110,247172,243816,245286,251806,262359,261284,256413,252943,251606
+"11000","District of Columbia","2","SA25N 1/","2001","...","      Federal, civilian",183638,182782,179324,183103,192561,189835,189210,188793,190290,188272,189677,196328,206246,207720,203981,200702,198136
+"11000","District of Columbia","2","SA25N 1/","2002","...","      Military",23283,22381,23819,23083,23222,23485,23452,22808,21719,20202,20006,19524,19718,18349,15635,15119,14855
+"11000","District of Columbia","2","SA25N 1/","2010","...","      State and local",41971,40130,37600,38972,38330,36884,36082,35509,35163,35342,35603,35954,36395,35215,36797,37122,38615
+"11000","District of Columbia","2","SA25N 1/","2011","...","        State government",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"11000","District of Columbia","2","SA25N 1/","2012","...","        Local government",41971,40130,37600,38972,38330,36884,36082,35509,35163,35342,35603,35954,36395,35215,36797,37122,38615
+"Note: See the included footnote file."
+"SA25N: Total Full-Time and Part-Time Employment by NAICS Industry"
+"Last updated: September 30, 2015-- new estimates for 2014; revised estimates for 2007-2013."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Income Division"
